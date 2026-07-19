@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "1784436823421",
+    "user": "1784285810440",
+    "title": "electric bill",
+    "amount": 700,
+    "category": "Utilities",
+    "date": "2026-07-19T00:00:00.000Z",
+    "description": "",
+    "createdAt": "2026-07-19T04:53:43.421Z",
+    "updatedAt": "2026-07-19T04:53:43.421Z"
+  },
+  {
+    "_id": "1784437035408",
+    "user": "1784285810440",
+    "title": "room rent",
+    "amount": 5000,
+    "category": "Rent",
+    "date": "2026-07-19T00:00:00.000Z",
+    "description": "",
+    "createdAt": "2026-07-19T04:57:15.408Z",
+    "updatedAt": "2026-07-19T04:57:15.408Z"
+  }
+]

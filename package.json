@@ -1,0 +1,14 @@
+{
+  "name": "smart-expense-tracker-root",
+  "version": "1.0.0",
+  "description": "Smart Expense Tracker root project manager",
+  "scripts": {
+    "install-all": "npm install && npm --prefix ./frontend install && npm --prefix ./backend install",
+    "frontend": "npm --prefix ./frontend run dev",
+    "backend": "npm --prefix ./backend run dev",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

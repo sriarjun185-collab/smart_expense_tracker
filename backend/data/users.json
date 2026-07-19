@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "1784285810440",
+    "name": "sri arjun",
+    "email": "arjunvenkadesh8@gmail.com",
+    "password": "$2a$10$yyHS72G/HPWLoe33R3nWceMLP0ybb.gj0aaRkx65NacYu/V5RCvNa",
+    "monthlyBudgetLimit": 0,
+    "createdAt": "2026-07-17T10:56:50.440Z",
+    "updatedAt": "2026-07-17T10:56:50.441Z"
+  }
+]
